@@ -24,3 +24,30 @@
 .container-fluid{
     background-color: #eac6c6;
 }
+.row1{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    
+
+}
+
+
+/* _____________________________MOBILE RESPONSIVE______________________________ */
+@media only screen and (MAX-width: 500px) {
+    .nameplate h1{
+        font-size: 3rem;
+        
+    }
+}
+
+@media only screen and (MAX-width: 500px) {
+    .row1{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        width: auto;
+    height: auto;
+    }
+
+}
