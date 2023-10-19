@@ -1,0 +1,26 @@
+.DUKAN{
+  
+   
+}
+.nameplate{
+    
+    height: 357px;
+    /* background-image: url(image/poster.png); */
+    color: rgb(204, 127, 255);
+    background-color: #0b1f1fc3;
+    font-size: 38px;
+    background-repeat: no-repeat;
+} 
+.nameplate span{
+    color: rgb(221, 194, 159);
+}
+.nameplate h1{
+
+    font-size: 5rem;
+    color: rgb(202, 135, 135);
+    font-family:'Times New Roman', Times, serif;
+    /* font-weight: 700; */
+}
+.container-fluid{
+    background-color: #eac6c6;
+}
