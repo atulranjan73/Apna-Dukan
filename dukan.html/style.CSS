@@ -27,11 +27,13 @@ height: 40%;
 }
  .row1 span{
       text-align: center;
+      color: rgb(233, 48, 171);
 
     }
    .d-block {
     height: 100vh;
     width: auto;
+
    }
 
 
